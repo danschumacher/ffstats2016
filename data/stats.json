@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Garrett",
+    "Wins": 11,
+    "Losses": 4,
+    "Ties": 0,
+    "Acquisitions": 9,
+    "Trades": 0,
+    "Points for": 1619,
+    "Points against": 1379
+  },
+  {
+    "Name": "Will",
+    "Wins": 9,
+    "Losses": 4,
+    "Ties": 2,
+    "Acquisitions": 11,
+    "Trades": 1,
+    "Points for": 1390,
+    "Points against": 1253
+  },
+  {
+    "Name": "Charlie",
+    "Wins": 10,
+    "Losses": 5,
+    "Ties": 0,
+    "Acquisitions": 16,
+    "Trades": 0,
+    "Points for": 1407,
+    "Points against": 1203
+  },
+  {
+    "Name": "Dan",
+    "Wins": 9,
+    "Losses": 6,
+    "Ties": 0,
+    "Acquisitions": 28,
+    "Trades": 4,
+    "Points for": 1437,
+    "Points against": 1302
+  },
+  {
+    "Name": "Sam",
+    "Wins": 4,
+    "Losses": 11,
+    "Ties": 0,
+    "Acquisitions": 7,
+    "Trades": 1,
+    "Points for": 1207,
+    "Points against": 1452
+  },
+  {
+    "Name": "Ben",
+    "Wins": 2,
+    "Losses": 11,
+    "Ties": 2,
+    "Acquisitions": 12,
+    "Trades": 0,
+    "Points for": 1357,
+    "Points against": 1503
+  },
+  {
+    "Name": "Abby",
+    "Wins": 4,
+    "Losses": 11,
+    "Ties": 0,
+    "Acquisitions": 3,
+    "Trades": 2,
+    "Points for": 1137,
+    "Points against": 1478
+  },
+  {
+    "Name": "Catie",
+    "Wins": 9,
+    "Losses": 6,
+    "Ties": 0,
+    "Acquisitions": 10,
+    "Trades": 0,
+    "Points for": 1384,
+    "Points against": 1368
+  }
+]
